@@ -7,6 +7,7 @@
 # x$getinverse()
 
 
+## Write a short comment describing this function
 # Use this function to create a special "matrix", which is actually a list 
 # containing functions to
 # 1.set the value of the matrix
